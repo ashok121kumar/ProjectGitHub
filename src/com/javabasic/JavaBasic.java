@@ -7,6 +7,7 @@ public class JavaBasic {
 		int b=20;
 		System.out.println(a+b);
 		
-		System.out.println("Hi all");
+		System.out.println("Hi Team");
+		System.out.println("Hi Ashok");
 	}
 }
