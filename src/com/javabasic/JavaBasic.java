@@ -9,5 +9,9 @@ public class JavaBasic {
 		
 		System.out.println("Hi Team");
 		System.out.println("Hi Ashok");
+		
+		System.out.println("today is new day");
 	}
+	
+	
 }
