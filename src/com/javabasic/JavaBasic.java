@@ -12,6 +12,7 @@ public class JavaBasic {
 		
 		System.out.println("today is new day");
 		System.out.println("one more this good to see all");
+		System.out.println("all are well");
 	}
 	
 	
