@@ -13,6 +13,10 @@ public class JavaBasic {
 		System.out.println("today is new day");
 		System.out.println("one more this good to see all");
 		System.out.println("all are well");
+		
+		int c=20;
+		int d=20;
+		System.out.println(a+b);
 	}
 	
 	
