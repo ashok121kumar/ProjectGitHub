@@ -17,6 +17,11 @@ public class JavaBasic {
 		int c=20;
 		int d=20;
 		System.out.println(a+b);
+		
+		int e=45;
+		int f=55;
+		int g=e+f;
+		System.out.println(g);
 	}
 	
 	
