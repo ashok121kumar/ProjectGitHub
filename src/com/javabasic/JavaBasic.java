@@ -24,6 +24,9 @@ public class JavaBasic {
 		System.out.println(g);
 		
 		System.out.println(g+(a+b));
+		
+		int h=g;
+		System.out.println(h=g);
 	}
 	
 	
