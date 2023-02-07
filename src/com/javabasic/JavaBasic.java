@@ -22,6 +22,8 @@ public class JavaBasic {
 		int f=55;
 		int g=e+f;
 		System.out.println(g);
+		
+		System.out.println(g+(a+b));
 	}
 	
 	
